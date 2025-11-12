@@ -1,0 +1,25 @@
+# Environnements virtuels
+env/
+venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Fichiers de base de données Django
+db.sqlite3
+
+# Fichiers médias (uploads utilisateurs)
+media/
+
+# Fichiers temporaires système / IDE
+*.log
+*.pot
+*.pyc
+*.idea/
+*.vscode/
+
+# Dossiers de migrations compilés
+*/migrations/__pycache__/
